@@ -1,3 +1,3 @@
 # Aula-python
-aula de linguagem python
+linguagem python
 introducao a aula
